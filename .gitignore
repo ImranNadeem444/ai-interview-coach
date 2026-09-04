@@ -1,0 +1,73 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+backend/venv/
+venv/
+.venv/
+
+# ==============================
+# Environment / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# IDE
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# OS
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# Testing
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Frontend
+# ==============================
+frontend/node_modules/
+frontend/dist/
+
+# ==============================
+# Uploaded files
+# ==============================
+uploads/*
+!uploads/.gitkeep
+
+# ==============================
+# ChromaDB
+# ==============================
+chroma_data/*
+!chroma_data/.gitkeep
+
+# ==============================
+# Build / cache
+# ==============================
+*.egg-info/
+dist/
+build/
+# Local ChromaDB
+chroma_db/*
+!chroma_db/.gitkeep
+
+backend/audio/*
+backend/uploads/*

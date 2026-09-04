@@ -1,0 +1,46 @@
+AI Developer (Intern) – Full-Time
+
+Location: Lahore
+Salary: Market Competitive
+Terms of Employment: Full Time
+Work Mode: On-site
+
+Requirements
+
+Bachelor's degree in Computer Science, AI, Software Engineering, or related field.
+
+Strong Python programming fundamentals.
+
+Basic knowledge of Machine Learning, Generative AI, and LLMs.
+
+Familiarity with REST APIs and Git/GitHub.
+
+Knowledge of LangChain, LangGraph, CrewAI, AutoGen, or RAG is an advantage.
+
+Familiarity with FastAPI, Streamlit, or Gradio is preferred.
+
+Hands-on AI projects or GitHub portfolio highly preferred.
+
+Strong analytical, communication, and problem-solving skills.
+
+Experience
+
+Fresh graduates and candidates with 0–1 year of relevant practical experience are encouraged to apply.
+
+Candidates with hands-on AI projects, internships, or freelance experience will be preferred.
+
+Key Responsibilities
+
+Develop and support AI applications, chatbots, and automation workflows.
+
+Work with LLMs such as OpenAI, Claude, and Gemini.
+
+Write and maintain Python code.
+
+Assist in AI model testing, evaluation, and optimization.
+
+Research and implement emerging AI technologies.
+
+Work with APIs, RAG, and AI frameworks.
+
+Collaborate with teams and document project progress.
